@@ -1,1 +1,1 @@
-# EJBJarTest
+This project builds a simple EJB JAR file that can be used for deployment testing.
